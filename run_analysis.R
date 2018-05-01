@@ -1,5 +1,4 @@
 # Course 4 - Getting and Cleaing Data: Course Project
-# Author: Sanjay Lonkar
 # Date: 01-May-2018
 
 
