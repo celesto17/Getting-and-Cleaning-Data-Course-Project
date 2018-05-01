@@ -1,10 +1,3 @@
----
-Course 4 - Getting and Cleaing Data: Course Project - Codebook
-Author: Sanjay Lonkar
-Date: 01-May-2018
----
-
-
 #CodeBook
 
 ##Introduction
