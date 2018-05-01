@@ -1,9 +1,3 @@
----
-Course 4 - Getting and Cleaing Data: Course Project - README
-Author: Sanjay Lonkar
-Date: 01-May-2018
----
-
 # Getting and Cleaning Data - Course Project
 This is the course project for the Getting and Cleaning Data Coursera course. 
 
